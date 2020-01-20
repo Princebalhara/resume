@@ -1,0 +1,61 @@
+.zer{
+    margin: 0px;
+    padding: 0px;
+}
+.right{
+    background-color:#1b1716;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10%;
+  }
+  .bar{
+      margin-top: 10%;
+  }
+  .size{
+      width: 20%;
+      text-align: center;
+  }
+  .support{
+      width: 80%;
+  }
+  
+  .spacing{
+      margin-top: 10%;
+      color: white;
+  }
+  .br{
+    margin-top: 10%;
+    padding-left: 3%;
+    background-color: gainsboro;
+}
+.award{
+    margin-top: 5%;
+    color: white;
+}
+.block{
+    margin-top: 8%;
+    background-color: gray;
+    width: 80%;
+    text-align:center;
+}
+.exp{
+    margin-top: 5.5%;
+    background-color:white;
+}
+.left{
+    margin-top: 2%;
+}
+.gr{
+    margin-top: 6.5%;
+}
+.left-1{
+    margin-top: 4%;
+}
+.bt{
+    margin-top: 2%;
+    margin-right: 4%;
+}
